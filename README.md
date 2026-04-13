@@ -1,5 +1,4 @@
 # 🫀 Statin Non Adherence Risk Tool
-
 A real world health analytics project identifying 
 statin patients most likely to discontinue medication 
 before clinical teams notice.
